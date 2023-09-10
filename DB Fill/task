@@ -1,0 +1,5 @@
+SELECT t.team_name, g.game_name, t.team_info
+FROM kvn.game as g
+NATURAL JOIN kvn.connect as c
+NATURAL JOIN kvn.team as t
+LIMIT 10;
