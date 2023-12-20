@@ -38,6 +38,13 @@ functions**.
 - **2.2_dop_2:** More decent way to **Correct tables** from task 2_2: remove unnecessary cascade dependencies. Also create **update** and **delete** scripts.
 - **2.3_dop:** Create **function** in order to make team disqualifying easier.
 
+## **Schemas**:
+### Lab2 Schema:
+![lab2](https://github.com/Championsh/MSU-Database-Prac/raw/main/lab2_1.png "Lab2 Schema")
+
+### Lab3 Schema:
+![lab2](https://github.com/Championsh/MSU-Database-Prac/raw/main/lab3_1.png "Lab3 Schema")
+
 ## Project Tree
 ```
 ├── DB Fill
